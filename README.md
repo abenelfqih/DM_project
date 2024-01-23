@@ -60,6 +60,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 ## Acknowledgments
 
 - Special thanks to my collaborator, Safae Oulja, for their contributions.
+- Inspiration from https://github.com/tirthajyoti/DS-with-PySimpleGUI/blob/main/SimpleDataFrame.py
 
 
 
